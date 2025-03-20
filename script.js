@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Acessa o botÃ£o com o ID 'aumentar-fonte' no HTML e o armazena em uma variÃ¡vel
 
     const aumentaFonteBotao = document.getElementById('aumentar-fonte');
-
+    const diminuiFonteBotao = document.getElementById('diminuir-fonte');
     // Inicializa uma variÃ¡vel que controla o tamanho da fonte. ComeÃ§a com 1rem.
 
     let tamanhoAtualFonte = 1;
