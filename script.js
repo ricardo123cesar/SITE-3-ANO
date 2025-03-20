@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Adiciona um evento de clique ao botÃ£o 'aumentar-fonte'
 
-    aumentaFonteBotao.addEventListener('click', function() {
+    aumentaFonteBotao.addEventListener ('click', function() {
 
         // Quando o botÃ£o for clicado, aumenta o valor de tamanhoAtualFonte em 0.1
 
