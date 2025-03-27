@@ -4,7 +4,7 @@
 document.addEventListener('DOMContentLoaded', function () {
 
 cont botaoDeAcesssibilidade = document.getElementsByClassName('botao-acessibilidade');
-cont opcoeDeAcesssibilidade = document.getElementsByClassName('arpesenta-lita');
+cont opcoesDeAcesssibilidade = document.getElementsByClassName('arpesenta-lita');
 
 botaoDeAcesssibilidade.addEventListener('click' , function () {
     botaoDeAcesssibilidade.classlist.toggle('rotacao-botao');
