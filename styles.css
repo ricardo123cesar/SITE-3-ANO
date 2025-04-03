@@ -172,4 +172,11 @@ h2 {
 
 .alto-contraste header,
 .alto-contraste footer,
-.alto-contraste formulario,
+.alto-contraste formulario, {
+    background-color: var(--alto-contarste-fundo);
+    color: var(--altocontraste-texto);
+}
+
+.alto-contraste .nav-link {
+    .
+}
